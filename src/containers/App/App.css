@@ -1,0 +1,19 @@
+body {
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+}
+
+.app {
+    text-align: center;
+}
+
+.app p {
+    font-size: 40px;
+    text-transform: uppercase;
+}
+
+#root {
+    width: 90%;
+    margin: 0 auto;
+}
